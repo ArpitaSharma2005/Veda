@@ -1,0 +1,122 @@
+{
+  "Aloevera": {
+    "scientific_name": "Aloe barbadensis miller"
+  },
+  "Amla": {
+    "scientific_name": "Phyllanthus emblica"
+  },
+  "Amruta_Balli": {
+    "scientific_name": "Tinospora cordifolia"
+  },
+  "Arali": {
+    "scientific_name": "Nerium oleander"
+  },
+  "Ashoka": {
+    "scientific_name": "Saraca asoca"
+  },
+  "Ashwagandha": {
+    "scientific_name": "Withania somnifera"
+  },
+  "Avacado": {
+    "scientific_name": "Persea americana"
+  },
+  "Bamboo": {
+    "scientific_name": "Bambusoideae"
+  },
+  "Basale": {
+    "scientific_name": "Basella alba"
+  },
+  "Betel": {
+    "scientific_name": "Piper betle"
+  },
+  "Betel_Nut": {
+    "scientific_name": "Areca catechu"
+  },
+  "Brahmi": {
+    "scientific_name": "Bacopa monnieri"
+  },
+  "Castor": {
+    "scientific_name": "Ricinus communis"
+  },
+  "Curry_Leaf": {
+    "scientific_name": "Murraya koenigii"
+  },
+  "Doddapatre": {
+    "scientific_name": "Plectranthus amboinicus"
+  },
+  "Ekka": {
+    "scientific_name": "Calotropis gigantea"
+  },
+  "Ganike": {
+    "scientific_name": "Solanum nigrum"
+  },
+  "Gauva": {
+    "scientific_name": "Psidium guajava"
+  },
+  "Geranium": {
+    "scientific_name": "Pelargonium"
+  },
+  "Henna": {
+    "scientific_name": "Lawsonia inermis"
+  },
+  "Hibiscus": {
+    "scientific_name": "Hibiscus rosa-sinensis"
+  },
+  "Honge": {
+    "scientific_name": "Millettia pinnata"
+  },
+  "Insulin": {
+    "scientific_name": "Chamaecostus cuspidatus"
+  },
+  "Jasmine": {
+    "scientific_name": "Jasminum"
+  },
+  "Lemon": {
+    "scientific_name": "Citrus limon"
+  },
+  "Lemon_grass": {
+    "scientific_name": "Cymbopogon citratus"
+  },
+  "Mango": {
+    "scientific_name": "Mangifera indica"
+  },
+  "Mint": {
+    "scientific_name": "Mentha"
+  },
+  "Nagadali": {
+    "scientific_name": "Ruta graveolens"
+  },
+  "Neem": {
+    "scientific_name": "Azadirachta indica"
+  },
+  "Nithyapushpa": {
+    "scientific_name": "Catharanthus roseus"
+  },
+  "Nooni": {
+    "scientific_name": "Morinda citrifolia"
+  },
+  "Pappaya": {
+    "scientific_name": "Carica papaya"
+  },
+  "Pepper": {
+    "scientific_name": "Piper nigrum"
+  },
+  "Pomegranate": {
+    "scientific_name": "Punica granatum"
+  },
+  "Raktachandini": {
+    "scientific_name": "Pterocarpus santalinus"
+  },
+  "Rose": {
+    "scientific_name": "Rosa"
+  },
+  "Sapota": {
+    "scientific_name": "Manilkara zapota"
+  },
+  "Tulasi": {
+    "scientific_name": "Ocimum sanctum"
+  },
+  "Wood_sorel": {
+    "scientific_name": "Oxalis acetosella"
+  }
+}
