@@ -1,1 +1,4 @@
-fastapi[all]
+Flask
+tensorflow
+numpy
+Pillow
